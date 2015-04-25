@@ -1,0 +1,1 @@
+Audacious fetch album cover plugin
